@@ -90,7 +90,8 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
-            "spacy"
+            "spacy",
+            "en_core_web_sm"
         ],
         entry_points={
             "console_scripts": [
