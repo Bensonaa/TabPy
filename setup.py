@@ -91,7 +91,7 @@ def setup_package():
             "twisted",
             "urllib3",
             "spacy",
-            "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl"
+            "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm"
         ],
         entry_points={
             "console_scripts": [
