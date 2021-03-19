@@ -90,8 +90,7 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
-            "spacy",
-            "r'https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm'"
+            "spacy"
         ],
         entry_points={
             "console_scripts": [
