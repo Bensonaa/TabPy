@@ -7,12 +7,12 @@
     "env":{
         "USERNAME":{
             "description": "Add your username",
-            "value": "gzanolli",
+            "value": "analyst",
             "required": true
         },
         "PASSWORD":{
             "description": "Define your password",
-            "value": "P@ssw0rd",
+            "value": "Canada67!",
             "required": true
         }
     }
